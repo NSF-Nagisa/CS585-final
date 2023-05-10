@@ -12,6 +12,10 @@ This code might change based on your cuda:
 pip install mmcv -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/index.html
 pip install mmengine
 
+## Model structure
+
+The model structure are in the config/ folder
+
 ## Data preparation
 
 Enter datasets/coco/images folder, create folder if the folder doesn't exist.
